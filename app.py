@@ -5,4 +5,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def counter():
-    return 'Total Visitors are 55+5+5+5+5+5'
+    return 'Total Visitors are 55+5'
